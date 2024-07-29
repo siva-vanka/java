@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:49:36 +0530] "GET /NoXMLWebApp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:49:37 +0530] "GET /NoXMLWebApp/ HTTP/1.1" 200 264
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:49:40 +0530] "GET /NoXMLWebApp/travels/signup HTTP/1.1" 200 1269
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:50:07 +0530] "GET /NoXMLWebApp/travels/create-user?email=fhi%40gmail.com&password=linling&confirm-password=lingling&dob=2024-07-18&remember=on HTTP/1.1" 200 1210
+0:0:0:0:0:0:0:1 - - [29/Jul/2024:17:50:19 +0530] "GET /NoXMLWebApp/travels/book-travel?from_address=tuni&to_address=hyd&travel_date=2024-07-11&remember=on HTTP/1.1" 200 196
